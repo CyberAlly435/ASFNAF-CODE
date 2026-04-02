@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Warning.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/FirstTime.unity
+    guid: fb41cd1d5466256488b0dc3c0e6da508
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: 2debf49f642be624fb03e36b1b9a33d1
+  - enabled: 1
+    path: Assets/Scenes/Journals.unity
+    guid: 000c405bede24bd4bae901e284f51105
+  - enabled: 1
+    path: Assets/Scenes/PreparingToNight.unity
+    guid: 47e5d250f98e8294ca1939e4ab213c83
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: f8f94dc3b4c77c14999cf8002038f258
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: ca14300e460281f4b971194c1a5b31d5, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 67528b701dddf954882ec9d5b52c2f70, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 8a37cb4b5c5dc214880dc12ea3ffb785, type: 3}
+  m_UseUCBPForAssetBundles: 0

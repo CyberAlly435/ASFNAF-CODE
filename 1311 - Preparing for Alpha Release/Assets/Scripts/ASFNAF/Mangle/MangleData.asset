@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9260f9283eddb944b07788c01765b31, type: 3}
+  m_Name: MangleData
+  m_EditorClassIdentifier: Assembly-CSharp::MangleData
+  settings:
+    video:
+      resolutionIndex: 0
+      framesPerSecondIndex: 0
+      constantArea: 0
+      vsync: 0
+      postProcessing: 0
+      windowMode: 0
+      quality: 0
+    audio:
+      main: 0
+      music: 0
+      ambient: 0
+      voice: 0
+      mute: 0
+    language:
+      language: 0
+      voicer: 0
+      subtitles: 0
+      systemSync: 0
+    features:
+      discordSync: 0
+      gameTime: 0
+  mangle:
+    stars:
+      Five: 0
+      Six: 0
+      CustomNight: 0
+      GoodEnding: 0
+      AllStar: 0
+    night: 1
+    minigame: 0

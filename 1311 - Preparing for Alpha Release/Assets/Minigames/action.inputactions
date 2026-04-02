@@ -1,0 +1,35 @@
+{
+    "version": 1,
+    "name": "action",
+    "maps": [
+        {
+            "name": "Main",
+            "id": "4c9087cd-66e5-4236-8444-943ae29bab8b",
+            "actions": [
+                {
+                    "name": "increaseDialog",
+                    "type": "Button",
+                    "id": "ee2463d8-738e-4d3c-9278-a59c8c4dee18",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "7e17967b-ade6-46b7-91a4-32a864d9d52f",
+                    "path": "<Keyboard>/space",
+                    "interactions": "Press",
+                    "processors": "",
+                    "groups": "",
+                    "action": "increaseDialog",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
